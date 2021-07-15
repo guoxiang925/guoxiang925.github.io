@@ -234,7 +234,7 @@
                   </figure></a></div>
             </div>
             <div class="col-md-6">
-              <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a target="_blank" href="https://shop.dishdivvy.com/login">
+              <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a target="_blank" href="https://www.theblueground.com/">
                   <figure class="cc-effect"><img src="images/portfolio/realestate34.png" alt="Image"/>
                     <figcaption>
                       <div class="h4">Real Estate</div>
@@ -258,13 +258,13 @@
         <div class="ml-auto mr-auto">
           <div class="row">
             <div class="col-md-6">
-              <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a target="_blank" href="https://apps.apple.com/us/app/dishdivvy-food-near-me/id1385120390">
+              <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom">
                   <figure class="cc-effect d-flex align-items-center justify-content-center"><img src="images/portfolio/food-delivery-mobile.png" alt="Image"/>
                     <figcaption>
                       <div class="h4">Food Delivery App</div>
                       <p>Ionic5, Angular 8</p>
                     </figcaption>
-                  </figure></a></div>
+                  </figure></div>
               <!-- <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom">
                   <figure class="cc-effect d-flex align-items-center justify-content-center"><img src="images/portfolio/fitniess.png" alt="Image"/>
                     <figcaption>
@@ -385,7 +385,7 @@
       <div class="row">
         <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
           <div class="card-body cc-experience-header">
-            <p>Jun 2014 – May 2017</p>
+            <p>Nov 2014 – May 2017</p>
             <div class="h5">ELEKS</div>
           </div>
         </div>
