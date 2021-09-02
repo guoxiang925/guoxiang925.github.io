@@ -74,6 +74,7 @@
               <br>I take pleasure in helping companies and engineering teams realize their vision by quickly building great tools and applications.
               <br>I like to spend my free time trying to teach my two cats how to open doors.
             </p>
+            <p>I like to spend my free time trying to teach my two cats how to open doors.</p>
           </div>
         </div>
         <div class="col-lg-6 col-md-12">
