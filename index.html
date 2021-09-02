@@ -72,6 +72,7 @@
               I'm a senior software engineer with over 10 years of experience in languages such as C++, JavaScript, PHP, HTML, and CSS.
               <br>Recently, I've been focusing on trending JavaScript stacks like Angular, React, and NodeJS.
               <br>I take pleasure in helping companies and engineering teams realize their vision by quickly building great tools and applications.
+              <br>I like to spend my free time trying to teach my two cats how to open doors.
             </p>
           </div>
         </div>
