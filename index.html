@@ -72,7 +72,6 @@
               I'm a senior software engineer with over 10 years of experience in languages such as C++, JavaScript, PHP, HTML, and CSS.
               <br>Recently, I've been focusing on trending JavaScript stacks like Angular, React, and NodeJS.
               <br>I take pleasure in helping companies and engineering teams realize their vision by quickly building great tools and applications.
-              <br>I like to spend my free time trying to teach my two cats how to open doors.
             </p>
             <p>I like to spend my free time trying to teach my two cats how to open doors.</p>
           </div>
@@ -256,7 +255,7 @@
           </div>
         </div>
       </div>
-      <!-- <div class="tab-pane" id="graphic-design" role="tabpanel">
+      <div class="tab-pane" id="graphic-design" role="tabpanel">
         <div class="ml-auto mr-auto">
           <div class="row">
             <div class="col-md-6">
@@ -279,7 +278,7 @@
             </div>
           </div>
         </div>
-      </div> -->
+      </div>
    
     </div>
   </div>
@@ -292,7 +291,7 @@
       <div class="row">
         <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
           <div class="card-body cc-experience-header">
-            <p>Jul 2020 – Feb 2021</p>
+            <p>Jul 2020 – Oct 2021</p>
             <div class="h5">247 Labs</div>
           </div>
         </div>
